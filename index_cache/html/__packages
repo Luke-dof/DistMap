@@ -1,0 +1,8 @@
+leaflet
+htmltools
+magrittr
+sf
+RColorBrewer
+htmlwidgets
+dplyr
+geojsonio
